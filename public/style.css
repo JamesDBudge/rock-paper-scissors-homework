@@ -1,0 +1,22 @@
+body {
+  background-color: #e0876a;
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: #f9ccac;
+  font-size: 36pt;
+}
+
+p {
+  text-align: center;
+  color: #fbefcc;
+  font-size: 24pt;
+}
+
+a {
+  font-size: 24pt;
+}
+
+/* HEX:  */
